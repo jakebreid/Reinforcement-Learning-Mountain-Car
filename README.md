@@ -1,4 +1,4 @@
-#Reinforcement Learning - Mountain Car! 
+# Reinforcement Learning - Mountain Car! 
 
 ![mountain car with error bars](https://github.com/jakebreid/Reinforcement-Learning-Mountain-Car/assets/158000215/28aaa48f-744d-4a27-99a5-f153152bf8ba)
 
